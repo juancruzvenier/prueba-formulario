@@ -1,7 +1,7 @@
 <?php
 
-$nombre = $_POST['name'];
-$email = $_POST['email'];
+$nombre = $_POST['nombre'];
+$email = $_POST['correo'];
 
 $formContent="
 Nombre: $nombre \n
